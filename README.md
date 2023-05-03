@@ -18,7 +18,7 @@ I intend to use my repository as a way to organize courses and projects I've alr
 Thus, here you can find basic materials on programming in various topics (HTML, CSS, JS), projects that use AWS and GCP, as well as more advanced content involving Python, SQL and data tools such as dbt, Airflow, more related to my area of interest with data.
 
 Highlights:
-- [AWS Data Engineering Project with S3, SQS, Lambda, Firehose, Glue and Athena transforming data from CSV to JSON to Parquet so it can become queriable ]([url](https://github.com/mcanabrava/data-engineering-aws-mba-fiap))
+- [AWS Data Engineering Project with S3, SQS, Lambda, Firehose, Glue and Athena transforming data from CSV to JSON to Parquet so it can become queriable ](https://github.com/mcanabrava/data-engineering-aws-mba-fiap)
 
 ## Skills 🔎
 I'm currently focused in refining my expertise in: 
