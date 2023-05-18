@@ -19,7 +19,7 @@ Thus, here you can find basic materials on programming in various topics (HTML, 
 
 Highlights:
 1. [AWS Data Engineering ETL project using a 11GB dataset, S3, SQS, Lambda, Firehose, Glue and Athena transforming data from CSV to JSON to Parquet so it can be queried using SQL](https://github.com/mcanabrava/data-engineering-aws-mba-fiap)
-2. [AWS Data Engineering data modeling and ETL project ingesting multiple JSON files from S3 into Redshift staging and analytical tables using Python Boto3 SDK](https://github.com/mcanabrava/udacity-aws-data-engineering-nanodegree/tree/main/2.%20Cloud%20Data%20Warehouses)
+2. [AWS Data Engineering data modelling and ETL project ingesting multiple JSON files from S3 into Redshift staging and analytical tables using Python Boto3 SDK](https://github.com/mcanabrava/udacity-aws-data-engineering-nanodegree/tree/main/2.%20Cloud%20Data%20Warehouses)
 3. [Data Pipelines with Airflow, S3 and Redshift](https://github.com/mcanabrava/udacity-aws-data-engineering-nanodegree/tree/main/4.%20Data%20Pipelines%20with%20Airflow)
 
 ## Skills 🔎
