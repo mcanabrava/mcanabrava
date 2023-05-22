@@ -7,7 +7,7 @@ Despite having started my career in business, in the quest to try to understand 
 
 For this reason, at the end of my graduation, in 2018, I decided to direct my career from business and management consultancy towards technology and started working as a Product Manager in web, data and growth related roles. 
 
-As a curious person, I decided to delve into the alphabet soup of technical terms that I heard every day like HTML, CSS, Javascript, SQL, Python, CI/CD, staging, deploy, etc and create my own github to develop my projects and immerse yourself more and more in technology. And, in this way, to be able to better contribute to the teams and organizations that I am part of.
+As a curious person, I decided to delve into the alphabet soup of technical terms that I heard every day like HTML, CSS, Javascript, SQL, Python, CI/CD, staging, deploy, etc and create my own github to develop my projects and immerse more and more in technology. And, in this way, to be able to better contribute to the teams and organizations that I am part of.
 
 In addition to exploring how new technologies work, I also enjoy disconnecting from screens and doing all kinds of sports and meeting new people.
 
