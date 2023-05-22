@@ -15,7 +15,7 @@ In addition to exploring how new technologies work, I also enjoy disconnecting f
 ## Projects 👨‍💻
 I intend to use my repository as a way to organize courses and projects I've already taken to help my future self and others.
 
-Thus, here you can find basic materials on programming in various topics (HTML, CSS, JS), projects that use AWS and GCP, as well as more advanced content involving Python, SQL and data tools such as dbt, Airflow, more related to my area of interest with data.
+Thus, here you can find basic materials on programming in various topics (HTML, CSS, JS), projects that use AWS and GCP, as well as more advanced content involving Python, SQL and data tools.
 
 Highlights:
 1. [AWS Data Engineering ETL project using a 11GB dataset, S3, SQS, Lambda, Firehose, Glue and Athena transforming data from CSV to JSON to Parquet so it can be queried using SQL](https://github.com/mcanabrava/data-engineering-aws-mba-fiap)
