@@ -21,6 +21,8 @@ Highlights:
 1. [AWS Data Engineering ETL project using a 11GB dataset, S3, SQS, Lambda, Firehose, Glue and Athena transforming data from CSV to JSON to Parquet so it can be queried using SQL](https://github.com/mcanabrava/data-engineering-aws-mba-fiap)
 2. [AWS Data Engineering data modelling and ETL project ingesting multiple JSON files from S3 into Redshift staging and analytical tables using Python Boto3 SDK](https://github.com/mcanabrava/udacity-aws-data-engineering-nanodegree/tree/main/2.%20Cloud%20Data%20Warehouses)
 3. [Data Pipelines with Airflow, S3 and Redshift](https://github.com/mcanabrava/udacity-aws-data-engineering-nanodegree/tree/main/4.%20Data%20Pipelines%20with%20Airflow)
+4. [Data Streaming simulation using Chicago's public transportation data to create a near real time dashboard with Kafka Connect, Kafka REST Proxy, Faust, KSQL, and Postgres](https://github.com/mcanabrava/udacity-data-streaming/tree/main/Optimizing-Public-Transportation)
+5. [Data Streaming simulation consuming data from an external application and a Redis database and being consumed using Kafka and Spark Streaming](https://github.com/mcanabrava/udacity-data-streaming/tree/main/Evaluate-Human-Balance-with-Spark-Streaming)
 
 ## Skills 🔎
 I'm currently focused in refining my expertise in: 
