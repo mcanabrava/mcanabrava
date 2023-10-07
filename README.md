@@ -1,31 +1,28 @@
-﻿# Hello | Hola | Olá - Welcome to my github page! ✋
+﻿# Hello | Hola | Olá - Welcome to my GitHub page! ✋
 
 ## About Me 
-I have a degree in Business Administration from UFMG (Federal University of Minas Gerais), frequently positioned among the best in Brazil in several rankings. 
+I have a degree in Business Administration from UFMG (Federal University of Minas Gerais), frequently positioned as the best business school in Brazil according to several rankings. However, somewhere in the past, I realized a deeper understanding of technology was fundamental to being able to generate more value for the teams I would work with, and decided to create my GitHub to develop some personal projects. 
 
-Despite having started my career in business, in the quest to try to understand how I could help generate more value for society, I realized halfway through that most of the challenges to unlocking the creation of additional value today involve technology somehow.
-
-For this reason, at the end of my graduation, in 2018, I decided to direct my career from business and management consultancy towards technology and started working as a Product Manager in web, data and growth related roles. 
-
-As a curious person, I decided to delve into the alphabet soup of technical terms that I heard every day like HTML, CSS, Javascript, SQL, Python, CI/CD, staging, deploy, etc and create my own github to develop my projects and immerse more and more in technology. And, in this way, to be able to better contribute to the teams and organizations that I am part of.
-
-In addition to exploring how new technologies work, I also enjoy disconnecting from screens and doing all kinds of sports and meeting new people.
+In addition to being curious and trying out new technologies, I also enjoy disconnecting from screens going out for all kinds of sports practice, and meeting new people.
 
 
 ## Projects 👨‍💻
-I intend to use my repository as a way to organize courses and projects I've already taken to help my future self and others.
+I intend to use my repository as a way to organize courses and projects I've already taken to help my future self and others. Please find below an index of the most interesting projects on this GitHub.
 
-Thus, here you can find basic materials on programming in various topics (HTML, CSS, JS), projects that use AWS and GCP, as well as more advanced content involving Python, SQL and data tools.
+**Data Engineering:**
 
-Highlights:
-1. [AWS Data Engineering ETL project using a 11GB dataset, S3, SQS, Lambda, Firehose, Glue and Athena transforming data from CSV to JSON to Parquet so it can be queried using SQL](https://github.com/mcanabrava/data-engineering-aws-mba-fiap)
-2. [AWS Data Engineering data modelling and ETL project ingesting multiple JSON files from S3 into Redshift staging and analytical tables using Python Boto3 SDK](https://github.com/mcanabrava/udacity-aws-data-engineering-nanodegree/tree/main/2.%20Cloud%20Data%20Warehouses)
+1. [Data Streaming simulation consuming data from an external application and a Redis database and being consumed using Kafka and Spark Streaming](https://github.com/mcanabrava/udacity-data-streaming/tree/main/Evaluate-Human-Balance-with-Spark-Streaming)
+2. [Data Streaming simulation using Chicago's public transportation data to create a near real-time dashboard with Kafka Connect, Kafka REST Proxy, Faust, KSQL, and Postgres](https://github.com/mcanabrava/udacity-data-streaming/tree/main/Optimizing-Public-Transportation)
 3. [Data Pipelines with Airflow, S3 and Redshift](https://github.com/mcanabrava/udacity-aws-data-engineering-nanodegree/tree/main/4.%20Data%20Pipelines%20with%20Airflow)
-4. [Data Streaming simulation using Chicago's public transportation data to create a near real time dashboard with Kafka Connect, Kafka REST Proxy, Faust, KSQL, and Postgres](https://github.com/mcanabrava/udacity-data-streaming/tree/main/Optimizing-Public-Transportation)
-5. [Data Streaming simulation consuming data from an external application and a Redis database and being consumed using Kafka and Spark Streaming](https://github.com/mcanabrava/udacity-data-streaming/tree/main/Evaluate-Human-Balance-with-Spark-Streaming)
+4. [AWS Data Engineering data modeling and ETL project ingesting multiple JSON files from S3 into Redshift staging and analytical tables using Python Boto3 SDK](https://github.com/mcanabrava/udacity-aws-data-engineering-nanodegree/tree/main/2.%20Cloud%20Data%20Warehouses)
+5. [AWS Data Engineering ETL project using an 11GB dataset, S3, SQS, Lambda, Firehose, and Glue transforming data from CSV to JSON to Parquet so it can be queried using SQL in Athena](https://github.com/mcanabrava/data-engineering-aws-mba-fiap)
+
+**Web Development**
+
+1. [Happy Birthday Message Generator, leveraging AI through OpenAI ChatGPT API and a Streamlit application for the front-end](https://github.com/mcanabrava/hbd-msg-generator)
 
 ## Skills 🔎
-I'm currently focused in refining my expertise in: 
+I'm currently focused on refining my expertise in: 
 
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /> &nbsp;
@@ -44,8 +41,6 @@ I'm currently focused in refining my expertise in:
 <img src="https://img.shields.io/badge/Snowflake-282C34?logo=Snowflake" alt="Snowflake logo" title="Snowflake logo" height="25" /> &nbsp;
 
 <img src="https://img.shields.io/badge/AWS-282C34?logo=Amazon AWS&logoColor=fc4e03" alt="Amazon AWS logo" title="Amazon AWS" height="25" /> &nbsp;
-
-
 
 ## Connect or Contact Me
 Feel free to send me a message or invitation via LinkedIn <a href="https://www.linkedin.com/in/marcelo-canabrava-de-andrade-959165b2/">
